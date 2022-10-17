@@ -4,4 +4,5 @@ In this project, we will build a Data Pipeline that will:
 2. Build a data model and load the data to postgresql database using python.
 3. Transfer the data from postgres to google cloud storage using python.
 4. Build a dimensional model and load the data to snowflake data warehouse using airbyte.
+
 **Architecture Diagram**
