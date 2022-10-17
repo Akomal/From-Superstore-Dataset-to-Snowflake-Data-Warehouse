@@ -1,4 +1,4 @@
-# SuperstorePipeline
+# BatchDataPipeline
 In this project, we will build a Data Pipeline that will:
 1. Take superstore dataset from data world and split it to different datafiles and apply data cleanaing.
 2. Build a data model and load the data to postgresql database using python.
