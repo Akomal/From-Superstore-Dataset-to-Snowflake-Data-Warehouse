@@ -6,3 +6,6 @@ In this project, we will build a Data Pipeline that will:
 4. Build a dimensional model and load the data to snowflake data warehouse using airbyte.
 
 **Architecture Diagram**
+[
+![DE](https://user-images.githubusercontent.com/39027056/196196234-8b6b9ff4-575c-4428-abc2-5dbfc6fcaef9.png)
+](url)
