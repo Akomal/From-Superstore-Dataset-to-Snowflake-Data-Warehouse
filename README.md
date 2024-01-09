@@ -5,7 +5,7 @@ In this project, we will build a Data Pipeline that will:
 3. Transfer the data from postgres to google cloud storage using python.
 4. Build a dimensional model and load the data to snowflake data warehouse using airbyte.
 
-**Tech Stack** Python, Postgres, SQL, Airbyte, Dimensional Modeling.
+**Tech Stack:** Python, Postgres, SQL, Airbyte, Dimensional Modeling.
 
 **Architecture Diagram**
 
